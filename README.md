@@ -1,4 +1,2 @@
 # .travis.yml
-travis ciむずい
-
-動かねえ
+先生側
